@@ -41,7 +41,7 @@ VirtualBox 디스크 - 동적 할당 - 기본값
  tar xzvf mysql-5.6.28.tar.gz (압축 풀기)
 
 - MySQL 설치
- sudo install mysql
+ sudo apt install mysql-server
 
 - 한글 처리 (etc / mysql 파일)
  sudo vi my.cnf
